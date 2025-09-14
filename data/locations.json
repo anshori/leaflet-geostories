@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Keraton Yogyakarta",
+        "lat": -7.8059221,
+        "lng": 110.3641298,
+        "desc": "Istana resmi Kesultanan Ngayogyakarta Hadiningrat.",
+        "img": "https://placehold.co/600x50/84A59D/FFF?text=Keraton"
+    },
+    {
+        "name": "Jalan Malioboro",
+        "lat": -7.7950595,
+        "lng": 110.3655598,
+        "desc": "Jantung kota Jogja, pusat perbelanjaan dan kuliner.",
+        "img": "https://placehold.co/600x50/F28482/FFF?text=Malioboro"
+    },
+    {
+        "name": "Taman Sari",
+        "lat": -7.8099683,
+        "lng": 110.3591222,
+        "desc": "Situs bekas taman atau kebun istana Keraton.",
+        "img": "https://placehold.co/600x50/F5CAC3/000?text=Taman+Sari"
+    },
+    {
+        "name": "Pantai Parangtritis",
+        "lat": -8.0036445,
+        "lng": 110.3167700,
+        "desc": "Pantai ikonik di selatan Jogja dengan mitosnya.",
+        "img": "https://placehold.co/600x50/22223B/FFF?text=Parangtritis"
+    },
+    {
+        "name": "Tebing Breksi",
+        "lat": -7.7814375,
+        "lng": 110.5049703,
+        "desc": "Bekas tambang batu yang disulap menjadi destinasi wisata.",
+        "img": "https://placehold.co/600x50/F2E9E4/000?text=Tebing+Breksi"
+    },
+    {
+        "name": "Tugu Jogja",
+        "lat": -7.7828513,
+        "lng": 110.3670618,
+        "desc": "Monumen ikonik yang menjadi simbol kota Yogyakarta.",
+        "img": "https://placehold.co/600x50/D4A373/FFF?text=Tugu+Jogja"
+    },
+    {
+        "name": "Kaliurang",
+        "lat": -7.5929786,
+        "lng": 110.4323547,
+        "desc": "Destinasi wisata alam di lereng Gunung Merapi.",
+        "img": "https://placehold.co/600x50/7FB5B5/FFF?text=Kaliurang"
+    },
+    {
+        "name": "Waduk Sermo",
+        "lat": -7.8226612,
+        "lng": 110.1202317,
+        "desc": "Waduk terbesar di Yogyakarta yang menawarkan pemandangan indah.",
+        "img": "https://placehold.co/600x50/EC7C26/FFF?text=Waduk+Sermo"
+    },
+    {
+        "name": "Nglanggeran",
+        "lat": -7.8406544,
+        "lng": 110.5436501,
+        "desc": "Nglanggeran adalah sebuah desa wisata yang terletak di Kecamatan Patuk, Kabupaten Gunungkidul, Yogyakarta. Desa ini terkenal dengan keindahan alamnya, terutama Gunung Api Purba Nglanggeran yang menawarkan pemandangan spektakuler dan jalur pendakian yang menantang.",
+        "img": "https://placehold.co/600x50/3E5F8A/FFF?text=Nglanggeran"
+    }
+]
